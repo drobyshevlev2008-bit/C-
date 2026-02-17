@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Point.cpp
+  Создание кода...
+C:\Users\droby\source\repos\PointProject\main.cpp(1,10): error C1083: Не удается открыть файл включение: Point.h: No such file or directory,
+C:\Users\droby\source\repos\PointProject\Point.cpp(1,10): error C1083: Не удается открыть файл включение: Point.h: No such file or directory,
